@@ -73,3 +73,5 @@ This repository contains a Colab notebook covering various data science techniqu
 - Singular Value Decomposition (SVD)
 - Linear Discriminant Analysis (LDA)
 
+## Note : 
+"The main intention behind curating this repository is to illustrate my adeptness and proficiency in the aforementioned topics."
